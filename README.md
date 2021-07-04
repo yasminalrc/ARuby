@@ -1,2 +1,2 @@
 # ARuby
-Repositorio para descarga de la aplicación ARuby y materiales.
+Repositorio para descarga de la aplicación ARuby y otros materiales.
