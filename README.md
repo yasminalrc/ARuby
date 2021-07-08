@@ -3,7 +3,7 @@ Repositorio para descarga de la aplicación ARuby y otros materiales.
 
 ## Descargar aplicación 
 
-Entra en: []()
+Entra en: [ARuby.apk](https://github.com/yasminalrc/ARuby/blob/4e53543ee1a2a273b6da2b6f858224be8b3c479e/ARuby.apk)
 
 ## Marcadores para realidad aumentada - Ejercicios 12 y 18
 
