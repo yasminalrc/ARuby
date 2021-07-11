@@ -7,7 +7,7 @@ Entra en: [ARuby.apk](https://github.com/yasminalrc/ARuby/blob/4e53543ee1a2a273b
 
 ## Marcadores para realidad aumentada - Ejercicios 12 y 18
 
-Ver fichero [Fichas_CodigosQR_final.pdf](https://github.com/yasminalrc/ARuby/blob/8bf4c6deea0a1c8ac34a6a7744e209a412b5ac90/Fichas%20Ejercicios/Fichas_CodigosQR_final.pdf)
+Ver fichero [Marcadores QR Ejercicios](https://github.com/yasminalrc/ARuby/blob/f0155163d1a29f00c6a848f6b27231fe59a65ef5/Fichas%20Ejercicios/Codigos_QR.pdf)
 
 
 ## Modelos 3D 
