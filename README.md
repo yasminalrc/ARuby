@@ -12,7 +12,7 @@ Ver fichero [Fichas_CodigosQR_final.pdf](https://github.com/yasminalrc/ARuby/blo
 
 ## Modelos 3D 
 
-En esta carpeta podrás encontrar los modelos 3D utilizados para desarrollar la aplicación: [Modelos3D.pdf](https://github.com/yasminalrc/ARuby/tree/main/Modelos3D)
+En esta carpeta podrás encontrar los modelos 3D utilizados para desarrollar la aplicación: [Modelos3D](https://github.com/yasminalrc/ARuby/tree/main/Modelos3D)
 
 También podrás ver los modelos en pdf [Modelos3D.pdf](https://github.com/yasminalrc/ARuby/blob/6e7fc5cae67be88956b06f40785a9d202d411e5a/Modelos3D/Modelos3D.pdf)
 
